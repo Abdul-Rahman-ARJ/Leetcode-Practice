@@ -1,2 +1,2 @@
 # Leetcode-Practice
-Practice makes perfect 
+Practice makes perfect.
