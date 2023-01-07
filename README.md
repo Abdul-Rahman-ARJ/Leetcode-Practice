@@ -2,3 +2,5 @@
 Practice makes perfect.
 
 motivation 
+
+LinkedIn inspiration 
